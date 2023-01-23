@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# This project is under construction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# THIRST
 
-## Available Scripts
+THIRST is a donation app that allows people to make "microdonations" to help those in need. With THIRST, you can make a difference in the lives of people around the world by giving small donations that add up to make a big impact.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Easy to use:** THIRST is designed to be user-friendly, with a simple and intuitive interface that makes it easy to donate.
+- **Flexible:** THIRST allows you to make donations in any amount, so you can give what you can afford.
+- **Transparent:** THIRST is transparent about where your donations go, with detailed information on each recipient and the impact of your donations.
+- **Secure:** THIRST uses industry-standard security measures to protect your personal information and ensure that your donations reach their intended recipients.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How it works
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Sign up:** Create an account on THIRST to start making donations.
+2. **Select a recipient:** Browse through a list of recipients and read about their stories. Choose the person or cause you want to donate to.
+3. **Make a donation:** Select an amount you want to donate, and choose a payment method. Your donation will go directly to the recipient you selected.
+4. **Track your impact:** Keep track of your donations and see the impact they make.
 
-### `npm test`
+## How to use THIRST
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Download the app:** THIRST is available for download on the App Store and Google Play.
+2. **Create an account:** Sign up with your email and password, or use your Google or Facebook account.
+3. **Browse recipients:** Check out the list of recipients, read their stories, and choose the person or cause you want to donate to.
+4. **Make a donation:** Select the amount you want to donate and choose a payment method. Your donation will be processed immediately.
+5. **Track your impact:** Keep track of your donations and see the impact they make.
 
-### `npm run build`
+## Why microdonations?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Microdonations are small donations that, when combined, can make a big impact. With THIRST, you can make a difference in the lives of people around the world by giving small donations that add up to make a big impact. Microdonations are also more accessible to people with limited resources, and it allows them to give what they can afford, which can help to build a more inclusive and supportive community.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact us
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you have any questions or feedback, please don't hesitate to contact us at [contact@thirst.com](mailto:contact@thirst.com). We are always happy to help.
 
-### `npm run eject`
+## Contribute
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This app is a portfolio project and open source, you can contribute to the development by visiting the [GitHub repository](https://github.com/yusufseward/THIRST) and submitting pull requests, or by reporting issues.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Licensing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+THIRST is licensed under the [MIT License](https://github.com/yusufseward/THIRST/blob/main/LICENSE).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Disclaimer
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is a portfolio project and is not intended for real-world use. I created this project to demonstrate my developer skills for potential employers.
