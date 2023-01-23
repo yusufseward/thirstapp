@@ -1,5 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
+import Topbar from './components/Navbar';
 
 function DonationForm({ handleSubmit, handleChange, amount }) {
   return (
@@ -68,6 +69,7 @@ function App() {
 
   return (
     <div className="container mx-auto">
+      <Topbar/>
       <h1 className="text-3xl font-medium mb-6">Donate</h1>
       <DonationForm
         handleSubmit={handleSubmit}

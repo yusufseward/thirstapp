@@ -1,13 +1,11 @@
-import { Navbar } from "react-bootstrap";
-
-function NavBar () {
+function Topbar() {
     return (
-        <nav class="navbar bg-body-tertiary">
-            <div class="container-fluid">
-                <span class="navbar-brand mb-0 h1">THIRST</span>
-            </div>
-        </nav>
+      <nav className="fixed top-0 left-0 right-0 z-10 bg-sky-400 border-b">
+        <div className="container mx-auto px-4 py-3 flex items-center">
+          <h1 className="text-xl font-medium text-white">THIRST</h1>
+        </div>
+      </nav>
     );
-}
-
-export default NavBar;
+  }
+  
+export default Topbar;
